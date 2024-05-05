@@ -1,5 +1,3 @@
 # Sudoku
 A command line sudoku game written in C++
-![plot](./Main menu.jpg)
-![plot](./Game Option.jpg)
-![plot](./Game Play.jpg)
+https://github.com/raaes0123/Sudoku/blob/main/Main%20menu.jpg
