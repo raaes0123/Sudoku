@@ -1,0 +1,5 @@
+mike 20
+kelley 50
+bob 20
+robert 20
+player1 50
